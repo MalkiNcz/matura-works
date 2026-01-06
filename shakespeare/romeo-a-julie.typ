@@ -1,93 +1,84 @@
 #import "../literature-template.typ": work
 
+
 #work(
   title: "Romeo a Julie",
   author: "William Shakespeare",
-  year: 1597,
+  year: 1594,
   characteristics: (
     obsah: [
-      Jedná se o drama, konkrétně o tragédii.
+      Podle obsahu dílo řadíme k dramatu. Podle formy drama. Z hlediska žánru tragédie (forma drama, vážný obsah)
     ],
     utvary: [
-      Veršované drama. Použití pětistopého jambického verše (blankverse), který je typický pro Shakespearova dramata.
-      _Pozn: Blankverse se složitě překládá do češtiny, v mnoha místěch není správný překlad aplikovatelný._
-
-      V díle se téže objevuje jak próza, tak i poezie. Často se vyskytují metafory, inverze, a další figury -- vše je typické pro Shakespearův styl psaní.
+      Veršované drama, tragédie. Dílo je psáno pětistopým jambickým veršem. Vyskytuje se poezie i próza a figury. 
     ],
-    name-meaning: [
-      Dílo nese název podle jmen dvou hlavních postav.
+    name-meaning: [ 
+      Název odkazuje na jména hlavních postav, která jsou symbolem tragické lásky. 
     ],
-    tema: [
-      Láska, osud, konflikt mezi jednotlivcem a společností, konflikt mezi 2 rody, mládí versus stáří, násilí a smrt.
+    tema: [ 
+      Nešťastný osud dvou mladých milenců pocházejících ze znepřátelených rodů. Láska, osud, konflikt tragédie a smrt. 
     ],
   ),
   literary-context: (
     umelecke-smer: [
-      Dílo se řadí do období renesance, konkrétně do anglické renesanční literatury. *Humanismus* je zde patrný v důrazu na lidské emoce a individualitu.
-
-      Dílo patří do období Alžbětinských dramat, v této době za
-      vlády královny Alžběty I. se rozvíjelo divadlo a literatura.
-
-      Časové vymezení: Konec 16. století (1597). Renesance v anglii: 16. -- začátek 17. století.
+      Tvorbu řadíme do období "anglické renesance". W. S. psal Romeo a Julii mezi léty 1591-1595/6, publikována poprvé r. 1597. 
     ],
     historicke-souvislosti: [
-      V době napsání díla byla Anglie pod vládou královny Alžběty I., což bylo období politické stability a kulturního rozkvětu.
+      W. S. tvořil v době, kdy v Anglii vládne slavná královna Alžběta I. (1558-1603), poslední angl. vládce z rodu Tudorovců; Anglie pod jejím vedením zažívá rozkvět (alžbětinská doba či zlatý věk Anglie; vyznačuje se mimo jiné rozvojem řemesel, obchodu, vzdělanosti a kultury, zejména anglické literatury a divadla - alžbětinské divadlo), v téže době doznívá anglická reformace (její otec Jindřich VIII. se prohlásil hlavou angl. církve - po jeho smrti vládne dcera Marie I. a nastoluje staré katolické pořádky (Krvavá Marie) - po smrti Marie nastupuje Alžběta I., která se přiklání k odkazu jejich společného otce Jindřicha VIII.), po smrti Alžběty I. (1603) se vlády v Anglii ujímají Stuartovci, konkrétně skotský král Jakub I.
     ],
     soucasnici: [
-      *Angličtí*
-      - Christopher Marlowe (1564 -- 1593): Autor her jako "Tamburlaine the Great" a "Doctor Faustus", které se také zabývají tragickými hrdiny a osudem.
-      - Ben Jonson (1572 -- 1637): Známý pro své komedie a satiry, jako "Volpone" a "The Alchemist".
-
-      *Pyramus a Thisbé* (Ovidius) -- dílo, které mělo vliv na tvorbu díla Romeo a Julie. Sdíli rysy: mladí milenci, zákaz vztahu, smrt obou milenců. Liší se v: Pyramus a Thisbé je antický mýtus, stručný příběh. Romeo a Julie je renesanční drama s psychologií postav.
+      *Itálie*
+      - Dante Alighieri (Božská komedie)
+      - Francesco Petrarca (Sonety Lauře)
+      - Giovanni Boccaccio (Dekameron)
+      *Francie*
+      - Francois Villon (Malý a Velký testament)
+      *Anglie*
+      - Christopher Marlowe (Dr. Faustus)
     ],
     autoruv-zivot: [
-      William Shakespeare (1564 -- 1616) byl anglický dramatik, básník a herec. Žil v době renesance, což ovlivnilo jeho tvorbu. Narodil se v Stratfordu nad Avonou a později se přestěhoval do Londýna, kde se stal významnou postavou divadelního světa. Neví se jak zemřel, ale jeho díla zanechala trvalý odkaz v literatuře.
+      W. S. se narodil r. 1564 ve Stratfordu nad Avonou a zemřel r. 1616, dosud se jedná o nejvýznamnějšího anglického dramatika (napsal údajně 38 her; jeho hry byly přeloženy do všech světových jazyků a stále se hrají), byl také hercem a básníkem (autor sonetů - Sonety), v Londýně se stal členem divadelní společnosti (divadelní Společnost lorda komořího), stal se spolumajitelem proslulého divadla Globe; na sklonku života se Shakespeare vrátil z Londýna zpět do Stratfordu k rodině; rodinu založil mladý, spekuluje se, že již v 18 letech; manželka se jmenovala Anne Hathaway, spolu měli tři děti
     ],
     dalsi-dila: [
-      Mezi další významná díla Williama Shakespeara patří:
+      Nejprve psal komedie, poté historické hry a dále tragédie.
+      Mezi jeho nejvýznamnější díla patří:
       - *Hamlet* -- tragédie o dánském princi, který hledá pomstu za smrt svého otce.
       - *Zkrocení zlé ženy* -- komedie o manželství a vztazích mezi pohlavími.
       - *Macbeth* -- tragédie o skotském šlechtici, jehož ambice vedou k vraždě a následnému pádu.
       - *Sen noci svatojánské* -- komedie plná magie, lásky a záměn, odehrávající se během noci svatojánské.
-    ]
+    ],
+    
   ),
   kompozice: [
-    Dílo se odehrává chronologicky, je středně dlouhé, v 5 dějstvích.
-    Dějství se nadále dělí na scény. Prolog v podobě sboru, který shrnuje dílo předem. V. dějství plní funkci epilogu, jako závěr.
+    Kompozice díla je chronologická, skládající se z prologu a pěti jednání, které se následně dělí na několik scén. Středně dlouhé drama. 
   ],
   obsah-dila: [
-    Příběh se odehráva ve Veroně, spor mezi 2 rody -- *Montekové* a *Kapuletové*. U Kapuletů má být ples -- oznámení o zasnoubení Julie s Parisem. Romeo (Montek) hodlá navštívit tentýž ples. Tybalt pozná Romea jako Monteka a chce ho zesměšnit, to se mu nepodaří. Romeo se seznámí s Julií, po konci plesu *balkonová scéna*. Následuje oddání otcem Vavřincem. Tybalt zabije Merkucia (Romeův přítel -- byl vyzván k boji). Julie se má vdávat za Parisa další den, v to nedopustí a vypije nápoj co zajistí že vypadá jako mrtvá. Pohřeb navštíví Romeo(nedorazil posel co má Romeovi říct že je to fake, kvůli moru ve Veroně), kde zabije Parise, vidí mrtvou Julii a vypije jed. Julie se probouzí, zešílí ze smrti Romea, použije jeho dýku k vlastní sebevraždě. Rodiny se kvůli této události usmíří.
+    Příběh se odehrává ve Veroně, kde probíhá spor mezi dvěma šlechtickými rody Montekové a Kapuleti. Kapuleti pořádají ples, na který se Romeo dostane. Juliin bratranec Tybalt pozná Romea a chce ho vyhnat, což se mu nepovede. Na plese Romeo pozná Julii a oba se do sebe zamilují. Následně je bratr lorenzo potají oddá. Při sporu mezi Tybaltem a Mercutiem je Mercutio zabit a Rómeo v pomstě zabije Tybalta. Za tento čin je Rómeo knížetem vyhoštěn z Verony a uprchne do Mantovy. Na to si Julie má vzít Parise. S pomocí bratra Lorenza vypije lektvar, který ji uvede do stavu připomínající smrt. Bratr Lorenzo pošle Rómeovi posla s dopisem, že se má dostavit do hrobky a Julii po probuzení vyzvednout. Kvůli moru ve Veroně se ale poslel k Rómeovi nedostane a Rómeo se dozvídá pouze o Juliině smrti. Sežene si jed a po příchodu do hrobky se utká s Parisem, kterého zabije. Poté se Rómeo napije jedu a umírá vedle Juliie. Julie po probuzení nalezne mrtvého Rómea a jeho dýkou se probodne. Jejich smrtí se oba rody usmíří.
   ],
   postavy: [
-    *Hlavní*
-    - Romeo _(Montek)_, Julie _(Kapulet)_ -- osudný pár
-    *Vedlejší*
-    - Paris _(Kapulet)_ -- původní manžel Julie
-    - Montek a Kapulet -- leadeři 2 rodů
-    - Tybalt _(Kapulet)_ -- synovec paní Kapuletové
-    - Merkucio _(Montek)_ -- Romeův přítel
-    - Benvolio _(Montek)_ -- Romeův přítel
+    *hlavni-postavy*
+    - Romeo (Montek), Julie (Kapuletová)
+    *vedlejsi-postavy*
+    - Escalus -- kníže veronský
+    - Montek a Kapulet -- hlavy znepřátelených rodů
+    - Mercutio -- Romeův přítel, příbuzný knížete Escaluse
+    - Tybalt -- Julin bratranec
+    - Benvolio -- Romeův bratranec
+    - Bratr Lorenzo -- mnich, který pomáhá Romeovi a Julii
+    - Chůva -- Juliina chůva
   ],
   vypravecsky-zpusob: [
-    Jde o drama -- nevyskytuje se ich/er forma. Děj je zprostředkován přímou řečí. Sbor vystupuje v prologu.
-    Vypravěc není a nevstupuje do díla.
+    Ve hře se objevují klasické divadelní repliky, tedy přímé řeči jednajících postav ve formě dialogů i monologů
   ],
   jazyk-dila: [
-    Primárně spisovný jazyk, s použitím veršů (pětistopý jambický verš -- blankverse). Využití metafor, inverzí, aliterací a dalších figur. Jazyk je bohatý na obraznost a emoce, což posiluje dramatický účinek díla.
-
-    V díle se vyskytují i odchylky -- archaismy, hovorové prvky.
-    Ty mají odlišit postavy (sociální vrstvy, věk).
-
-    Převážně složené a souvětí -- typické pro dramatickou veršovanou řeč.
-
-    *Tropy* --- metafora (např. "láska je oheň"), personifikace (např. "osud nás vede"). Personifikace -- osud, smrt, čas -- dodává dramatičnost.
+    Dílo je napsáno spisovným jazykem. Promluvy Romea a Julie jsou veršované (dokonce spolu mluví formou sonetu), ostatní promluvy veršem a prózou.
+    Jazyk je spisovný, bohatý na obrazná vyjádření a poetické obraty, což podtrhuje tragický a romantický charakter příběhu.
+    Časté jsou dlouhé dialogy.
   ],
   ohlas-dila: [
-    Dílo bylo velmi dobře přijato jak literární kritikou, tak i diváky. Stalo se jedním z nejhranějších a nejpřekládanějších Shakespearových děl. Inspirace pro 
-    díla v romantismu. V této době je stále dílo velmi populární -- v divadle (uvádí se dodnes) i filmu.
+    Romeo a Julie a další Shakespearovy hry byly již v době vzniku velmi oblíbené. Dokonce v tehdejší Praze byly Shakespearovy hry známy (díky hostujícím anglickým hercům). Dílo inspirovalo a inspiruje další tvůrce (divadlo, balet, muzikál, film). K nejznámějším českým překladatelům Shakespeara patří Josef Václav Sládek, Jáchym Topol a shakespearolog Martin Hilský. Tímto dílem byl inspirován i Romain Rolland, který napsal Petr a Lucie (námětem je podobný kontrast křehké lásky dvou mladých lidí a zničujícího zbytečného konfliktu; novela Petr a Lucie je situována do prostředí druhé světové války, končí však podobně, smrtí obou milenců), z českých autorů je třeba jmenovat Jana Otčenáška, který napsal Romeo, Julie a tma (okupační tématika).
   ],
   ctenar: [
-    Nejsem člověk co by tragická dramata nějak prožíval. Dílo jsem viděl ve formě audioknihy a videa jevištního provedení. Příběh je klasický a známý. Jsem toho názoru, že
-    by ho měl vidět/slyšet/poslechnout každý, kdo má alespoň kapku zájmu o kulturu.
-  ]
+    Kvůli tomu, že se jedná o hru, kde je přiběh vypravován pomocí dialogů postav, což mě osobně tento formát nesedne, nenavázal jsem s dílem tak silné emocionální pouto. I přes si myslím, že dílo je kvalitní a každy by ho měl znát.
+  ],
 )

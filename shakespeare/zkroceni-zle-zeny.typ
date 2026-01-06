@@ -1,99 +1,80 @@
 #import "../literature-template.typ": work
 
+
 #work(
   title: "Zkrocení zlé ženy",
   author: "William Shakespeare",
-  year: [1590 -- 1591],
+  year: 1597,
   characteristics: (
     obsah: [
-      Jedná se o drama, konkrétně o tragédii.
+      Podle obsahu dílo řadíme k dramatu. Podle formy drama. Z hlediska žánru komedie
     ],
     utvary: [
-      Veršované drama. Použití pětistopého jambického verše (blankverse), který je typický pro Shakespearova dramata.
-      _Pozn: Blankverse se složitě překládá do češtiny, v mnoha místěch není správný překlad aplikovatelný._
-
-      V díle se téže objevuje jak próza, tak i poezie. Často se vyskytují metafory, inverze, a další figury -- vše je typycké pro Shakespearův styl psaní.
+      Veršované drama, komedie. komický děj a situace, slovní humor a ironie, šťastný konec
     ],
-    name-meaning: [
-      Název odkazuje na hlavní zápletku díla, kde je "zlá žena" -- Kateřina "zkrocena" svým manželem -- Petrucio.
+    name-meaning: [ 
+      Název odkazuje na hlavní postavu Kateřiny, která je zpočátku zlá a láteřivá, ale postupně se mění v poslušnou manželku.
     ],
-    tema: [
-      Manželství, moc a podřízení, genderové role, společenské normy, láska a vztahy, proměna charakteru. Jak vychovat poslušnou ženu z Kateřiny, charakterový vývoj postav.
+    tema: [ 
+      Proměna láteřivé Kateřiny v poslušnou manželku. Vyvrácení starého názoru o nadřazenosti muže nad ženou.
     ],
   ),
   literary-context: (
     umelecke-smer: [
-      Dílo se řadí do období renesance, konkrétně do anglické renesanční literatury. *Humanismus* je zde patrný v důrazu na lidské emoce a individualitu.
-
-      Dílo patří do období Alžbětinských dramat, v této době za
-      vlády královny Alžběty I. se rozvíjelo divadlo a literatura.
-
-      Časové vymezení: Konec 16. století (1597). Renesance v anglii: 16. -- začátek 17. století.
-
-      Střídá prózu s verši, psaný Blakveršem (nerýmuje se na konci)
-      Hrdinové jsou živoucí a rozporuplné postavy, jsou psychologicky propracované a mohou proto diváky ovlivnit v mnoha různých dobách.
-
+      Tvorbu řadíme do období "anglické renesance".
     ],
     historicke-souvislosti: [
-      V době napsání díla byla Anglie pod vládou královny Alžběty I., což bylo období politické stability a kulturního rozkvětu.
+      W. S. tvořil v době, kdy v Anglii vládne slavná královna Alžběta I. (1558-1603), poslední angl. vládce z rodu Tudorovců; Anglie pod jejím vedením zažívá rozkvět (alžbětinská doba či zlatý věk Anglie; vyznačuje se mimo jiné rozvojem řemesel, obchodu, vzdělanosti a kultury, zejména anglické literatury a divadla - alžbětinské divadlo), v téže době doznívá anglická reformace (její otec Jindřich VIII. se prohlásil hlavou angl. církve - po jeho smrti vládne dcera Marie I. a nastoluje staré katolické pořádky (Krvavá Marie) - po smrti Marie nastupuje Alžběta I., která se přiklání k odkazu jejich společného otce Jindřicha VIII.), po smrti Alžběty I. (1603) se vlády v Anglii ujímají Stuartovci, konkrétně skotský král Jakub I.
     ],
     soucasnici: [
-      *Angličtí*
-      - Christopher Marlowe (1564 -- 1593): Autor her jako "Tamburlaine the Great" a "Doctor Faustus", které se také zabývají tragickými hrdiny a osudem.
-      - Ben Jonson (1572 -- 1637): Známý pro své komedie a satiry, jako "Volpone" a "The Alchemist".
-      *Cizí*
-      - Dante Alighieri (1265 -- 1321): Italský básník, autor "Božské komedie", která měla vliv na renesanční literaturu a její témata.
-      - Fracesco Petrarca -- Zpěvník neboli "Sonety Lauře" (zakladatel sonetu)
-      - Giovanni Boccaccio -- "Dekameron" (10x10 =100 novel)
-      - Francois Villon -- francouzský básník, styl Villónská balada
-
-
-      *Pyramus a Thisbé* (Ovidius) -- dílo, které mělo vliv na tvorbu díla Romeo a Julie. Sdíli rysy: mladí milenci, zákaz vztahu, smrt obou milenců. Liší se v: Pyramus a Thisbé je antický mýtus, stručný příběh. Romeo a Julie je renesanční drama s psychologií postav.
+      *Itálie*
+      - Dante Alighieri (Božská komedie)
+      - Francesco Petrarca (Sonety Lauře)
+      - Giovanni Boccaccio (Dekameron)
+      *Francie*
+      - Francois Villon (Malý a Velký testament)
+      *Anglie*
+      - Christopher Marlowe (Dr. Faustus)
     ],
     autoruv-zivot: [
-      William Shakespeare (1564 -- 1616) byl anglický dramatik, básník a herec. Žil v době renesance, což ovlivnilo jeho tvorbu. Narodil se v Stratfordu nad Avonou a později se přestěhoval do Londýna, kde se stal významnou postavou divadelního světa. Neví se jak zemřel, ale jeho díla zanechala trvalý odkaz v literatuře.
+      W. S. se narodil r. 1564 ve Stratfordu nad Avonou a zemřel r. 1616, dosud se jedná o nejvýznamnějšího anglického dramatika (napsal údajně 38 her; jeho hry byly přeloženy do všech světových jazyků a stále se hrají), byl také hercem a básníkem (autor sonetů - Sonety), v Londýně se stal členem divadelní společnosti (divadelní Společnost lorda komořího), stal se spolumajitelem proslulého divadla Globe; na sklonku života se Shakespeare vrátil z Londýna zpět do Stratfordu k rodině; rodinu založil mladý, spekuluje se, že již v 18 letech; manželka se jmenovala Anne Hathaway, spolu měli tři děti
     ],
     dalsi-dila: [
-      - *Komedie* -- Sen noci svatojánské, Zkrocení zlé ženy, Mnoho povyku pro nic, Komedie plná omylů
-      - *Tragedie* -- Hamlet, Othello, Král Lear, Megbet, Romeo a Julie
-      - *Historické* -- Richard II, Richard III, Jiří IV, Jiří VI, Jiří VII 
+      Nejprve psal komedie, poté historické hry a dále tragédie.
+      Mezi jeho nejvýznamnější díla patří:
+      - *Hamlet* -- tragédie o dánském princi, který hledá pomstu za smrt svého otce.
+      - *Romeo a Julie* -- tragédie o nešťastné lásce dvou mladých lidí z nepřátelských rodů.
+      - *Macbeth* -- tragédie o skotském šlechtici, jehož ambice vedou k vraždě a následnému pádu.
+      - *Sen noci svatojánské* -- komedie plná magie, lásky a záměn, odehrávající se během noci svatojánské.
     ],
+    
   ),
   kompozice: [
-    Drama je rozděleno do pěti dějství, každé dějství obsahuje několik scén. Děj je chronologický, sleduje události od příchodu Lucenzia do Padovy až po závěrečné scény s Kateřinou a Petrucciem.
-    
-    Předehra se odehrává před hospodou v širém poli, kde si lehne a usne Christopero vykuk (opilý kotlář). Zde si ho všimne lord a rozhodne se, že mu provede humornou lest. Odnese ho do svého domu a přikáže všemu služebnictvu, aby ho oslovovali milost pane. Když se Vykuk probudí, začne mu pořadatel vyprávět veselou komedii.
-
-    Drama má rámcovou kompozici, kdy hlavní dějová linie (zkrocení Kateřiny) je obklopena vedlejšími zápletkami (milostné zápletky kolem Bianky a jejích nápadníků).
-    Uvnitř rámce probíhají dvě dějové linie, které se prolínají:
-    - Hlavní dějová linie: vztah Kateřiny a Petruccia -- proces "zkrocení" vzdorovité ženy.
-    - Vedlejší dějová linie: milostné zápletky kolem Bianky a jejích nápadníků, založené na převlecích a záměnách identity.
+    Kompozice díla je chronologická, skládající se z pěti dějství, každé pak do několika obrazů. Středně dlouhé drama.
   ],
   obsah-dila: [
-    Tato komedie se odehrává v městě Padově. Do tohoto města přijde šlechticův syn Lucenzio se svým sluhou Traniem. Lucenzio se zamiluje do Blanky, která je dcerou bohatého podanského šlechtice Boptesky. Tento šlechtic ji ovšem nechce provdat, dokud nebude její starší sestra Kateřina provdaná. 
-    
-    Její sestra Kateřina je velice hubatá, tvrdohlavá a drzá, proto o ni nikdo nemá zájem. Lucenzio se rozhodne vydávat se za učitele, aby mohl Blanku v některých předmětech doučovat. Zatímco Tranio se vydává za svého pána. Do města přijde veronský šlechtic Petruccio, který se dozví o Kateřině a chce si ji vzít. 
-    
-    Jakmile je po svatbě, odveze si jí Petruccio do svého domu. Kvůli tomu, aby ji zkrotil nedává jí žádné jídlo a nutí jí, aby se vším, co řekne, souhlasila, i když to není pravda. Zatím se Blanka tajně provdá za Lucenzia. Po svatbě jdou za otcem Blanky, aby mu řekli, že jsou svoji. Koná se oslava, na kterou přijede i Kateřina se svým mužem Petrucciem. Všichni se podiví, jak se Kateřina změnila, není hubatá a vždy souhlasí se svým mužem.
+    V Padově žije bohatý kupec Bapista se svými dvěma dcerami, starší Kateřinou, která je hádavá a nepoddajná, a mladší Biankou, která je milá a poslušná. Bianca má tři nápadníky: Grumia, Hortensia a Lucentia, který se vydává za učitele hudby aby se mohl Biance dvořit a s pomocí sluhy se zbaví konkurence. Otec ale nechce Biancu provdat dokud nebude provdána Kateřina. V té době přijíždí do města Veronský šlechtic Petruchio, který si nakonec Kateřinu vezme a odjede s ní na jeho venkovské sídlo. Petruchio udělá Kateřině z života peklo, aby si uvědomila, že její chování překračuje meze. Kateřina nakonec vše pochopí a stane se poslušnou ženou. Bianka si nakonec vezme Lucentia a všichni včetně Hortenzia a Petruchia se sejdou a vsadí se kdo má poslušnější ženu. Každý z nich vzkáže po sluhovi své ženě aby přisla za ním. Jediná která přijde je Kateřina. Petruchio nakonec vyhraje sázku a ještě dostane od Baptisty 20 000 zlatých za to, že Kateřinu zkrotil.
   ],
   postavy: [
-    - *Petrucio* -- mladý, vtipný, Veronský šlechtic, který se s kamarády vsadil, že zkrotí „saň“ Kateřinu
-    - *Kateřina* -- dcera bohatého padovského šlechtice, které se pro její nezkrotnost a přímost vyhýbali nápadníci  
-    - *Blanka* -- mladší vypočítavá dcera, která je rozmazlená a otec nad ní drží ochrannou ruku
-    - *Lucentio* -- syn bohatého florentského šlechtice, který přijíždí do Padovy studovat filozofii, ale zamiluje se do Blanky, nakonec se s ní ožení
-    - *Hortensio* -- šlechtic z Padovy, který se uchází o Blanku, ale nakonec se ožení s Kateřinou
-    - *Grumio* -- Petruciův sluha, který je často terčem vtipů a žertů
-    - *Baptista* -- bohatý padovský šlechtic, otec Kateřiny a Blanky, který stanoví podmínku, že se Blanka může vdát až poté, co se provdá Kateřina
+    *hlavni-postavy*
+    - Bapista -- bohatý šlechtic z Padovy, otec Kateřiny a Bianky
+    - Kateřina -- starší hádavá a hubatá dcera Bapisty, později zkrocená manželka Petruccia
+    - Bianca -- mladší dcera Bapisty, milá a poslušná, obletovaná nápadníky
+    - Petruchio -- bohatý šlechtic z Verony, který přijíždí do Padovy za účelem získání nevěsty, nakonec si vezme Kateřinu
+    - Lucentio -- mladý šlechtic z Pisy, zamilovaný do Bianky, přestrojí se za učitele
   ],
   vypravecsky-zpusob: [
-    Jde o drama -- nevyskytuje se ich/er forma. Děj je zprostředkován přímou řečí.
-    Vypravěc není a nevstupuje do díla.
+    Ve hře se objevují klasické divadelní repliky, tedy přímé řeči jednajících postav ve formě dialogů.
   ],
   jazyk-dila: [
-    Užití spisovného a hovorového jazyka se slovní zásobou. Postavy z vyšších vrstev mluví spisovně, zatímco postavy z nižších vrstev používají hovorový jazyk. Použití archaismů, expresivních a citově zabarvených výrazů.
+    Jazyk je spisovný - knižní a občas hovorový. Dílo je psáno pětistopým jambickým veršem.
+    Bohatý a květnatý a přesto srozumitelný.
+    Expresiva, poetismy, archaismy.
   ],
   ohlas-dila: [
-    Dílo se dočkalo, podobně jako jiná Shakespearova díla, velkého ohlasu a popularity. Bylo značně přelomové v tom, že doposud byla láska ženy a muže zobrazována pod církevními dogmaty středověku, kdy byl galantní rytíř ochráncem křehké ženy a ona mu byla poslušnou ženou. Shakespeare však ukázal nový styl myšlení -- renesance, v níž získávaly ženy více prostoru a také jim byla v literatuře přisouzena role myslících bytostí a ne jenom role poslušných žen. Byl to jakýsi počátek emancipace a feminizace. 
+    Zkrocení zlé ženy je ceněno pro svou inteligenci, komediálnost a zkoumání lidských vztahů a rolí. Přestože moderní pohledy mohou na téma "zkrocení" pohlížet kriticky, v době vzniku šlo o významný posun v zobrazení ženské postavy a partnerských vztahů.
   ],
-  ctenar: [],
+  ctenar: [
+    I přes použití replik, což nemám rád, a počátečního zmatení v podobě prohazování jmen postav se mi dílo velmi líbilo a dokonce mě i pobaviilo. 
+  ],
 )
