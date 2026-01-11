@@ -4,7 +4,7 @@
 #work(
   title: "Utrpení mladého Werthera",
   author: "Johann Wolfgang Goethe",
-  year: 1845,
+  year: 1774,
   characteristics: (
     obsah: [
         Podle obsahu řadíme k epice. Podle formy próza. Z hlediska žánru sentimentální/milostný román.
