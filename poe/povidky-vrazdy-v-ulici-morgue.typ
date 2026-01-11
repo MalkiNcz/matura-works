@@ -24,6 +24,7 @@
       Tvorbu E.A.P. řadíme do období romantismu, na vzestupu je také realistická literatura.
     ],
     historicke-souvislosti: [
+      E.A.P. tvořil v době, kdy ve Spojených státech vznikají z původních britských kolonií další americké státy (1816- 1859) a zároveň je to období vznikajících sporů mezi severními a jižními státy, kvůli odlišnému politickému postoji k otroctví, později vedoucí k americké občanské válce (1861-1865);
     ],
     soucasnici: [
       *Světoví*

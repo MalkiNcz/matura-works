@@ -24,7 +24,7 @@
       Tvorbu E.A.P. řadíme do období romantismu, na vzestupu je také realistická literatura.
     ],
     historicke-souvislosti: [
-      W. S. tvořil v době, kdy v Anglii vládne slavná královna Alžběta I. (1558-1603), poslední angl. vládce z rodu Tudorovců; Anglie pod jejím vedením zažívá rozkvět (alžbětinská doba či zlatý věk Anglie; vyznačuje se mimo jiné rozvojem řemesel, obchodu, vzdělanosti a kultury, zejména anglické literatury a divadla - alžbětinské divadlo), v téže době doznívá anglická reformace (její otec Jindřich VIII. se prohlásil hlavou angl. církve - po jeho smrti vládne dcera Marie I. a nastoluje staré katolické pořádky (Krvavá Marie) - po smrti Marie nastupuje Alžběta I., která se přiklání k odkazu jejich společného otce Jindřicha VIII.), po smrti Alžběty I. (1603) se vlády v Anglii ujímají Stuartovci, konkrétně skotský král Jakub I.
+      E.A.P. tvořil v době, kdy ve Spojených státech vznikají z původních britských kolonií další americké státy (1816- 1859) a zároveň je to období vznikajících sporů mezi severními a jižními státy, kvůli odlišnému politickému postoji k otroctví, později vedoucí k americké občanské válce (1861-1865);
     ],
     soucasnici: [
       *Světoví*
