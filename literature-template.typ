@@ -21,7 +21,6 @@
   vypravecsky-zpusob: [],
   jazyk-dila: [],
   ohlas-dila: [],
-  ctenar: [],
 ) = {
   set page(
     paper: "a4",
@@ -92,10 +91,6 @@
       == 9 Ohlas díla 
       //===== _(pohled literární kritiky a čtenářů (i v různých dobách, pokud se jedná o dílo starší), (překlady), inspirace pro jiná umělecká zpracování)_
       #ohlas-dila
-
-      == 10 Čtenář 
-      //===== _(pocity, dojmy, názory, myšlenky)_
-      #ctenar
     ])
 }
 
@@ -122,5 +117,4 @@
   vypravecsky-zpusob: [],
   jazyk-dila: [],
   ohlas-dila: [],
-  ctenar: [],
 )
