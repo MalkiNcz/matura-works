@@ -21,7 +21,7 @@
   ),
   literary-context: (
     umelecke-smer: [
-        Jeho tvorbu řadíme do konce 19. a začátku 20. století do období realismu, který se snaží zachytit pravdivě a bez idealizace celou skutečnost. 
+        Jeho tvorbu řadíme do konce 19. a začátku 20. století do období realismu, který se snaží zachytit pravdivě a bez idealizace celou skutečnost. Doyle napsal 4 romány a 56 povídek o Sherlocku Holmesovi.
     ],
     historicke-souvislosti: [
         Tvořil v době Viktoriánské anglie, kdy je britské impérium na vrcholu moci. Probíhá průmyslová revoluce, dochází k rychlému růstu měst a vzniku moderní policie a rozvoji kriminalistiky. Následuje první světová válka, ve které Doyle přišel o syna a později se přiklonil ke spiritualismu. U nás končí vláda monarchie a vzniká samostatné Československo.
